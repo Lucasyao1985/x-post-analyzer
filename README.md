@@ -3,10 +3,10 @@
   <a href="https://github.com/Lucasyao1985/x-post-analyzer">GitHub</a> | <a href="SKILL.md">SKILL.md</a>
 </p>
 <p align="center">
-  <a href="https://github.com/Lucasyao1985/x-post-analyzer"><img alt="Release version" src="https://img.shields.io/github/v/release/Lucasyao1985/x-post-analyzer?color=brightgreen&label=Latest&style=for-the-badge" /></a>
-  <a href="https://github.com/Lucasyao1985/x-post-analyzer/commits"><img alt="Commits" src="https://img.shields.io/github/commit-activity/m/Lucasyao1985/x-post-analyzer?label=commits&style=for-the-badge" /></a>
-  <a href="README.zh-CN.md"><img alt="中文" src="https://img.shields.io/badge/中文-red?style=for-the-badge" /></a>
-  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /></a>
+  <a href="https://github.com/Lucasyao1985/x-post-analyzer"><img alt="Release version" src="https://img.shields.io/github/v/release/Lucasyao1985/x-post-analyzer?color=2da44e&label=Latest&style=for-the-badge" /></a>
+  <a href="https://github.com/Lucasyao1985/x-post-analyzer/commits"><img alt="Last commit" src="https://img.shields.io/github/last-commit/Lucasyao1985/x-post-analyzer?color=0969da&label=Last%20commit&style=for-the-badge" /></a>
+  <a href="README.zh-CN.md"><img alt="中文" src="https://img.shields.io/badge/中文-da3633?style=for-the-badge" /></a>
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-2da44e?style=for-the-badge" /></a>
 </p>
 
 ---
