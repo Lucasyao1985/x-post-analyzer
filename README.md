@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Lucasyao1985/x-post-analyzer"><img src="https://opengraph.githubassets.com/1/Lucasyao1985/x-post-analyzer" alt="X/Twitter Post Analyzer" width="100%"></a>
-</p>
-
 # X/Twitter Post Analyzer
 <p align="center">
   <a href="https://github.com/Lucasyao1985/x-post-analyzer">GitHub</a> | <a href="SKILL.md">SKILL.md</a>
@@ -14,7 +10,6 @@
 </p>
 
 ---
-
 **X/Twitter Post Analyzer is a [Claude Code](https://claude.ai) skill that fetches and analyzes X/Twitter post content, outputting a structured Chinese report.** One URL in, three tool calls max, zero noise.
 
 <table>
