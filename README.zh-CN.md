@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Lucasyao1985/x-post-analyzer"><img src="https://opengraph.githubassets.com/1/Lucasyao1985/x-post-analyzer" alt="X/Twitter Post Analyzer" width="100%"></a>
-</p>
-
 # X/Twitter 帖子分析器
 <p align="center">
   <a href="https://github.com/Lucasyao1985/x-post-analyzer">GitHub</a> | <a href="SKILL.md">SKILL.md</a>
@@ -14,7 +10,6 @@
 </p>
 
 ---
-
 **X/Twitter 帖子分析器是一个 [Claude Code](https://claude.ai) 技能，自动获取并分析 X/Twitter 帖子内容，输出结构化中文报告。** 一个链接，最多 3 次工具调用，零噪音。
 
 <table>
