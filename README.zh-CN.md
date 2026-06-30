@@ -4,9 +4,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/Lucasyao1985/x-post-analyzer"><img alt="Release version" src="https://img.shields.io/github/v/release/Lucasyao1985/x-post-analyzer?color=brightgreen&label=Latest&style=for-the-badge" /></a>
-  <a href="LICENSE"><img alt="License: Unlicense" src="https://img.shields.io/badge/-Unlicense-red.svg?style=for-the-badge" /></a>
   <a href="https://github.com/Lucasyao1985/x-post-analyzer/commits"><img alt="Commits" src="https://img.shields.io/github/commit-activity/m/Lucasyao1985/x-post-analyzer?label=commits&style=for-the-badge" /></a>
   <a href="README.zh-CN.md"><img alt="中文" src="https://img.shields.io/badge/中文-red?style=for-the-badge" /></a>
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -96,6 +96,6 @@ x-post-analyzer/
 
 ## 许可证
 
-Unlicense — 见 [LICENSE](LICENSE)。
+MIT — 见 [LICENSE](LICENSE)。
 
 由 [opencode](https://github.com/anomalyco/opencode) 构建。
